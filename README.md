@@ -8,7 +8,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://praharsh05.github.io/portfolio/](https://praharsh05.github.io/portfolio/)
 
-- 💬 Ask me about **Django, Python, and Java**
+- 💬 Ask me about **Python, Java, JavaScript**
 
 - 📫 How to reach me **praharsh.dubey05@gmail.com**
 
